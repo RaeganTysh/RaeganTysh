@@ -4,16 +4,16 @@
 
 ## Hello Everyone 👋
 
-### I have a passion and intellectual curiosity for solving technical challenges. I am an accomplished mid- career professional with progressive experience working in and collaborating with cross functional technical teams. I view each challenge as a learning opportunity and am confident, enthusiastic and determined to provide fit-for-purpose innovative solutions.<br/> Now lets do some coding!
+### I have a passion and intellectual curiosity for solving technical challenges. I am an accomplished mid- career professional with progressive experience working in and collaborating with cross functional technical teams. I view each challenge as a learning opportunity and am confident, enthusiastic and determined to provide fit-for-purpose innovative solutions.<br/> NOW LETS DO SOME CODING!
 
 ### Contact 
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaeganTysh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raegantyshkewichpgeol/)](https://www.linkedin.com/in/raegantyshkewichpgeol/)
-[![Gmail Badge](https://img.shields.io/badge/-raegan.tysh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acvjetan@gmail.com)](mailto:raegantysh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Raegan.Tysh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raegantyshkewichpgeol/)](https://www.linkedin.com/in/raegantyshkewichpgeol/)
+[![Gmail Badge](https://img.shields.io/badge/-Raegan.Tysh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acvjetan@gmail.com)](mailto:raegan.tysh@gmail.com)
 <br/><br/>
 
 #### 
-![My Passion](https://img.shields.io/badge/My%20Passion-Now%20let's%20do%20some%20Coding!-purple)
+![My Passion](https://img.shields.io/badge/MY%20PASSION-CODING-purple)
 
 #### Frontend /Programming
 
@@ -41,7 +41,7 @@
 #### API
 
 ![RESTAPI](https://img.shields.io/badge/-RESTAPI-000000?style=flat&logo=RESTAPI&logoColor=336791)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=E10098)
+
 
 #### Package managers
 
@@ -49,7 +49,7 @@
 
 ##### Version control system
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=Git&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-GitHub-DCDCDC?style=flat&logo=GitHub&logoColor=181717)
 
 
 
