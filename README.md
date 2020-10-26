@@ -4,7 +4,7 @@
 
 ## Hello Everyone 👋
 
-### I have a passion and intellectual curiosity for solving technical challenges. I am an accomplished mid- career professional with progressive experience working in and collaborating with cross functional technical teams. I view each challenge as a learning opportunity and am confident, enthusiastic and determined to provide fit-for-purpose innovative solutions.<br/> NOW LETS DO SOME CODING!
+### I have a passion and intellectual curiosity for solving technical challenges. I am an accomplished mid-career professional with progressive experience working in, and collaborating with cross functional technical teams. I view each challenge as a learning opportunity and am confident, enthusiastic and determined to provide fit-for-purpose innovative solutions.<br/> NOW LETS DO SOME CODING!
 
 ### Contact 
 
@@ -49,7 +49,7 @@
 
 ##### Version control system
 
-![GitHub](https://img.shields.io/badge/-GitHub-DCDCDC?style=flat&logo=GitHub&logoColor=181717)
+![GitHub](https://img.shields.io/badge/-GitHub-606060?style=flat&logo=GitHub&logoColor=181717)
 
 
 
