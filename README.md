@@ -12,9 +12,9 @@
 
 #### I have a passion and intellectual curiosity for solving technical challenges. I am an accomplished mid-career professional with progressive experience working in, and collaborating with cross functional technical teams. I have a consistent track record for delivering results. I view each challenge as a learning opportunity and am confident, enthusiastic and determined to provide fit-for-purpose innovative solutions.
 
-#### I am currently working on a IBM Data Science Professional Certificate.
+#### I am currently working on the IBM Data Science Professional Certification.
 
-#### Always looking to connect with other data science and programming enthusiasts- please reach out via email or LinkedIn!
+#### Always looking to connect with other geologists, data scientists, and programming enthusiasts - please reach out via email or LinkedIn!
 
 ### Contact 
 [![Linkedin Badge](https://img.shields.io/badge/-Raegan.Tysh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raegantysh/)](https://www.linkedin.com/in/raegantysh/)
